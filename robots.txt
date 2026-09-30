@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.xn--ouonetwork-cn3r594m.com/sitemap.xml
